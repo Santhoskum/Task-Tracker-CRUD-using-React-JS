@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Tracker-CRUD-using-React-JS/static/css/main.a2adedb8.css",
+    "main.js": "/Task-Tracker-CRUD-using-React-JS/static/js/main.529810a5.js",
+    "index.html": "/Task-Tracker-CRUD-using-React-JS/index.html",
+    "main.a2adedb8.css.map": "/Task-Tracker-CRUD-using-React-JS/static/css/main.a2adedb8.css.map",
+    "main.529810a5.js.map": "/Task-Tracker-CRUD-using-React-JS/static/js/main.529810a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2adedb8.css",
+    "static/js/main.529810a5.js"
+  ]
+}
